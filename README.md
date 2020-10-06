@@ -1,6 +1,6 @@
 # Together it's more fun
 
-Most people have enough food and water [1](https://www.gapminder.org/). 
+Most people have enough food and water[[1]](https://www.gapminder.org/). 
 
 Nevertheless many people miss something. 
 
