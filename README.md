@@ -20,7 +20,7 @@ Goals:
 * The plattform should be simple. 
 * The plattform should be without pictures.
 * The plattform should be open source, so everyone can run his own version.
-* The plattform should encourage face-to-face meetings.
+* The plattform should encourage online and face-to-face meetings.
 * The plattform should encourage learning together.
 * The plattform should encourage helping each other.
 
