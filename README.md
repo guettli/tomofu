@@ -4,7 +4,7 @@ Most people have enough food and water[[1]](https://www.gapminder.org/).
 
 Nevertheless many people miss something. 
 
-A feeling of belonging, a feeling of friendship.
+A feeling of belonging, a feeling of friendship or a helping hand.
 
 There are several commercial plattforms trying to solve this:
 
