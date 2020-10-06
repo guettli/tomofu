@@ -29,6 +29,6 @@ How does it work:
 * You register and specify the things you like to learn, where you can help or where you need help.
 * If you are lucky you find someone in your neighbourhood which fits to your profile.
 
-It is not about dating. It is about building small working groups for learing and helping.
+It is not about dating. It is about building small working groups for learning and helping.
 
 
