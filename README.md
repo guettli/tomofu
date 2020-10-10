@@ -13,7 +13,7 @@ Instagram, Facebook, .....
 They all focus on the surface. Good looking people, bright smiles, beautiful faces with
 tons of make-up.
 
-That's not what I am looking for.
+That's not what we are looking for.
 
 Goals:
 
